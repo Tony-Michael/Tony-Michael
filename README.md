@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Tony-Michael
 - 👀 I’m interested in codding
 - 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on C language 
+- 💞️ I’m looking to collaborate on TCS
+- 
 - 📫 How to reach me through www.linkedin.com/in/tony-michael-100304
 
 <!---
